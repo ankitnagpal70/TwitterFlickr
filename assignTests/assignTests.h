@@ -7,6 +7,10 @@
 //
 
 #import <SenTestingKit/SenTestingKit.h>
+#import "flickr2ViewController.h"
+#import "inpViewController.h"
+#import "MasterViewController.h"
+#import "DetailViewController.h"
 
 @interface assignTests : SenTestCase
 
